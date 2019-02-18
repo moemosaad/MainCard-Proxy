@@ -3,7 +3,7 @@ This application proxy server was inherited for hosting several components of a 
 
 ## Motivation
 
-This project was developed to gain a fundemental understanding of scalability in service-oriented architecture.
+This project was developed to gain a fundamental understanding of scalability in service-oriented architecture.
 
 ### Prerequisites
 
