@@ -16,10 +16,6 @@ To install dependencies, run
   npm install
   ```
 
-## Screenshots
-
-Include logo/demo screenshot etc.
-
 ## Deployment
 
 ### AWS
